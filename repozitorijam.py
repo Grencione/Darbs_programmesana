@@ -2,6 +2,8 @@
 print(5+6)
 #Tatjana Grencione
 print(5**2)
+
+print(2+(4*3))
 #1)Andersone Linda Elva
 
 #2)Apsîtis Edvards
